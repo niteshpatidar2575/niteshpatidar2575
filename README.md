@@ -1,16 +1,18 @@
-### Hi there 👋
+Welcome 👋 , I'm Nitesh Patidar.
 
-<!--
-**niteshpatidar2575/niteshpatidar2575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer, specializing in building exceptional websites and mobile applications, and everything in between.
 
-Here are some ideas to get you started:
+🛠  Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜  Language:  Javascript GO
+📱  Mobile:  React Native
+🗄  Backend:  Node.js ExpressJS NestJS
+🌐  Frontend:  React Angular Next.js
+🛢  Database:  MongoDB MySQL Postgresql
+⚙️  VCS:   Git GitHub Bitbucket
+🔧  IDE's:  Visual Studio Code Sublime Text
+
+
+Connect with me:
+
+ itz_niteshptdr
