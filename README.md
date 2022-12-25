@@ -4,7 +4,7 @@ I'm a software developer, specializing in building exceptional websites and mobi
 
 🛠  Tech Stack
 
-📜  Language:  Javascript GO
+📜  Language:  Javascript
 📱  Mobile:  React Native
 🗄  Backend:  Node.js ExpressJS NestJS
 🌐  Frontend:  React Angular Next.js
